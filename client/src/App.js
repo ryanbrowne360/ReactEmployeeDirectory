@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import Header from "./Header";
-import GetEmployees  from ".GetEmployees"
+import GetEmployees  from "./GetEmployees"
 
 function App() {
   return (
